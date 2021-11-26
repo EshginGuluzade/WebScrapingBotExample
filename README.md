@@ -1,4 +1,4 @@
-This is an example of simple web scraping bot.
+#This is an example of simple web scraping bot.
 
 The bot automatically opens the google chrome and enters the website - www.booking.com.
 
